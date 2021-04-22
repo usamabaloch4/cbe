@@ -1,0 +1,1 @@
+<center><h2> You have two paper scheduled today, please contact your teacher <a href="index.php">Back to Login </a></h2></center>
